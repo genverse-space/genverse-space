@@ -11,13 +11,14 @@ export default function WhatItDoes() {
   return (
     <section className="py-6 sm:py-12 lg:py-20" id="whatitdoes">
       <div className="mx-auto max-w-5xl space-y-8 px-3 sm:px-6 md:space-y-16">
-        <div className="relative z-10 mx-auto max-w-xl space-y-6 text-center md:space-y-12">
-          <h2 className="text-balance text-3xl sm:text-4xl font-medium lg:text-5xl">
-            Next-Gen AI Automation{" "}
+        <div className="relative z-10 mx-auto max-w-xl space-y-6 text-center">
+          <h2 className="text-balance text-3xl sm:text-4xl font-medium lg:text-5xl lg:whitespace-nowrap">
+            What Genverse Space Offers
           </h2>
           <p className="text-xs sm:text-sm md:text-base">
-            Genverse Space is an AI-powered automation hub that streamlines your
-            digital workflows and boosts productivity{" "}
+            Genverse Space empowers businesses with AI-driven automation,
+            seamless integrations, and innovative tools for enhanced
+            productivity.
           </p>
         </div>
 

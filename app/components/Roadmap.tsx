@@ -21,7 +21,7 @@ const FutureCard: React.FC<FutureCardProps> = ({
   );
 };
 
-const FutureSection: React.FC = () => {
+const RoadmapSection: React.FC = () => {
   const futureItems = [
     {
       emoji: "🌟",
@@ -45,7 +45,7 @@ const FutureSection: React.FC = () => {
 
   return (
     <section
-      id="futuresection"
+      id="roadmap"
       className="py-6 sm:py-16 lg:py-20 px-3 sm:px-6 text-white"
     >
       <div className="@container mx-auto max-w-5xl">
@@ -73,4 +73,4 @@ const FutureSection: React.FC = () => {
   );
 };
 
-export default FutureSection;
+export default RoadmapSection;

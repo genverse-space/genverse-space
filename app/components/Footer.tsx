@@ -8,9 +8,7 @@ const links = [
       { title: "AI Tools", href: "#" },
       { title: "Automation", href: "#" },
       { title: "Integrations", href: "#" },
-      { title: "Pricing", href: "#" },
       { title: "Support", href: "#" },
-      { title: "About", href: "#" },
     ],
   },
   {

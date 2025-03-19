@@ -4,8 +4,9 @@ import Features from "./components/Features";
 import StandOut from "./components/StandOut";
 import WhatItDoes from "./components/WhatItDoes";
 import GetStarted from "./components/GetStarted";
-import FutureSection from "./components/FutureSection";
 import FooterSection from "./components/Footer";
+import FAQs from "./components/Faqs";
+import RoadmapSection from "./components/Roadmap";
 
 export default function Home() {
   return (
@@ -15,8 +16,9 @@ export default function Home() {
       <Features />
       <WhatItDoes />
       <StandOut />
-      <FutureSection />
+      <RoadmapSection />
       <GetStarted />
+      <FAQs />
       <FooterSection />
     </main>
   );

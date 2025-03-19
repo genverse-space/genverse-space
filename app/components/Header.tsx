@@ -7,10 +7,9 @@ import { cn } from "@/lib/utils";
 import Image from "next/image";
 
 const menuItems = [
-  { name: "whatItDoes", href: "#whatitdoes" },
   { name: "Features", href: "#features" },
-  { name: "FutureSection", href: "#futuresection" },
-  { name: "GetStarted", href: "#getstarted" },
+  { name: "Roadmap", href: "#roadmap" },
+  { name: "FAQ", href: "#faqs" },
 ];
 
 export const HeroHeader = () => {
@@ -32,7 +31,7 @@ export const HeroHeader = () => {
       >
         <div
           className={cn(
-            "mx-auto mt-2 max-w-6xl px-6 transition-all duration-300 lg:px-12",
+            "mx-auto mt-2 max-w-7xl px-6 transition-all duration-300 lg:px-12",
             isScrolled &&
               "bg-background/50 max-w-4xl rounded-2xl border backdrop-blur-lg lg:px-5"
           )}

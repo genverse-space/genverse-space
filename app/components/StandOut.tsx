@@ -38,12 +38,13 @@ export default function StandOut() {
                 <Settings2 className="size-6" aria-hidden />
               </CardDecorator>
 
-              <h3 className="mt-6 font-medium">No Blockchain</h3>
+              <h3 className="mt-6 font-medium">High Market Demand</h3>
             </CardHeader>
 
             <CardContent>
               <p className="mt-3 text-sm">
-                Focused on practical AI automation without Web3 dependencies
+                AI-powered automation is trending, with tools like AutoGPT
+                gaining traction
               </p>
             </CardContent>
           </div>
@@ -54,13 +55,13 @@ export default function StandOut() {
                 <Sparkles className="size-6" aria-hidden />
               </CardDecorator>
 
-              <h3 className="mt-6 font-medium">Futuristic Theme</h3>
+              <h3 className="mt-6 font-medium">AI-Driven Efficiency</h3>
             </CardHeader>
 
             <CardContent>
               <p className="mt-3 text-sm">
-                A seamless &quot;AI Space&quot; for automation &amp;
-                intelligence
+                Optimizing workflows with intelligent automation, reducing
+                manual tasks, and accelerating productivity across industries.
               </p>
             </CardContent>
           </div>

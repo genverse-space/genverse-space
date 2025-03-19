@@ -6,10 +6,13 @@ export default function GetStarted() {
     <section className="py-6 sm:py-16" id="getstarted">
       <div className="mx-auto max-w-5xl px-3 sm:px-6">
         <div className="text-center">
-          <h2 className="text-balance text-4xl font-semibold lg:text-5xl">
-            Start Building
+          <h2 className="text-balance text-3xl sm:text-4xl font-semibold lg:text-5xl">
+            Ready to Transform Your Workflow?
           </h2>
-          <p className="mt-4">Libero sapiente aliquam quibusdam aspernatur.</p>
+          <p className="mt-4 text-xs sm:text-sm md:text-base">
+            Join the Genverse Space community today and experience the power of
+            AI-powered automation!
+          </p>
 
           <form action="" className="mx-auto mt-10 max-w-sm lg:mt-12">
             <div className="bg-background has-[input:focus]:ring-muted relative grid grid-cols-[1fr_auto] items-center rounded-[calc(var(--radius)+0.75rem)] border pr-3 shadow shadow-zinc-950/5 has-[input:focus]:ring-2">
