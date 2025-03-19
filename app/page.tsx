@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { HeroHeader } from "./components/Header";
 import HeroSection from "./components/HeroPage";
 import Features from "./components/Features";
