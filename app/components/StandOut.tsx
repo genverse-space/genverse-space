@@ -54,13 +54,13 @@ export default function StandOut() {
                 <Sparkles className="size-6" aria-hidden />
               </CardDecorator>
 
-              <h3 className="mt-6 font-medium">High Market Demand</h3>
+              <h3 className="mt-6 font-medium">Futuristic Theme</h3>
             </CardHeader>
 
             <CardContent>
               <p className="mt-3 text-sm">
-                AI-powered automation is trending, with tools like AutoGPT
-                gaining traction
+                A seamless &quot;AI Space&quot; for automation &amp;
+                intelligence
               </p>
             </CardContent>
           </div>

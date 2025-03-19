@@ -55,10 +55,10 @@ export default function FooterSection() {
           <div className="md:col-span-2">
             <Link href="/" aria-label="go home" className="block size-fit">
               <Image
-                src="/genverselogo.png"
+                src="/genverse-logo.png"
                 alt="Logo"
-                width={40}
-                height={40}
+                width={180}
+                height={180}
               />
             </Link>
           </div>

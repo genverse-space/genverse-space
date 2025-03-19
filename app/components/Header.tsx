@@ -45,10 +45,10 @@ export const HeroHeader = () => {
                 className="flex items-center space-x-2"
               >
                 <Image
-                  src="/genverselogo.png"
+                  src="/genverse-logo.png"
                   alt="Logo"
-                  width={40}
-                  height={40}
+                  width={180}
+                  height={180}
                 />
               </Link>
 
